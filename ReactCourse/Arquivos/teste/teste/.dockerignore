@@ -1,0 +1,8 @@
+# Not required ones.
+Dockerfile
+.dockerignore
+.gitignore
+
+# Artifacticts that will be built during exec
+node_modules
+build
